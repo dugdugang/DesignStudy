@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+.idea
+# 以下是可以选择的 用#进行注释
+/gradle
+gradle.properties
+gradlew
+gradlew.bat
